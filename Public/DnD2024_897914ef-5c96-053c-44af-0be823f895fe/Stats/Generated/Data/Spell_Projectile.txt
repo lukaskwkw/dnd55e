@@ -39,7 +39,7 @@ data "SpellFlags" "IsJump;HasHighGroundRangeExtension;IgnoreVisionBlock;RangeIgn
 new entry "Projectile_WeaponMasteryCleave_10"
 type "SpellData"
 data "SpellType" "Projectile"
-using "Projectile_ArrowOfRicochet_Ricochet_3"
+using "Projectile_GreenFlameBlade"
 data "SpellProperties" "DealDamage(1d10, Slashing);ExecuteWeaponFunctors(MainHand);"
 data "TargetRadius" "2"
 data "SpellRoll" ""
