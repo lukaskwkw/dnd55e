@@ -53,7 +53,7 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="6f7e778d-7203-4e95-997b-aa8782701457" />
         <field name="Name" type="NameTableFieldDefinition" value="WeaponMasteryCleave_10" />
-        <field name="Using" type="BaseClassTableFieldDefinition" value="21252e04-71ca-447d-91b3-7dc76b13979f" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c53d5de8-93f5-4033-8536-e3270eec61bd" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage(1d10, Slashing);ExecuteWeaponFunctors(MainHand);" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="2" />
         <field name="SpellRoll" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
